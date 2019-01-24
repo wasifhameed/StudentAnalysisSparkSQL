@@ -1,0 +1,37 @@
+Tulio,30,M,Sorocaba,Brazil,0,Computer Science,Sorocaba,None,None,soccer,Rock,1984,Arma3,Pizza,BMW,filme,Keanu Reeves,Monaco,Toronto,10,Java,2,0,0,0,8,3,green,y,y,y,y,n,y,y,186,n
+Amal das,23,M,Kozhikode,India,1,IT,Vadakara,N,N,Cricket,Pop,The power of subconscious mind,GTA,Biriyani,Tesla,Lights out,Tom cruise,New York,Toronto,1,Java,2,6,1,5,10,3,Blue,N,Y,Y,Y,Y,Y,Y,120,N
+Sandeep Singh,24,M,New Delhi,India,1,BTECH,New Delhi,,,Table Tennis,Punjabi,The White Tiger,Sudoku,Afghani Chicken,Mercedees,The Hobbit,Amir Khan,Dharamshala,Vancouver,2.5,,1,8,1,2,8,3,Turqoise,N,Y,Y,N,N,N,Y,50,N
+Smit,21,Male,Junagadh,India,0,B.Tech(IT),Nadiad,,,Cricket,Hollywood,Sherlock Holmes,Counter Strike,Homemade,Aston Martin,The Pursuit of Happiness,Shah Rukh Khan,Maldives,Mississauga,1,Andrioid,1,2,1,7,8,3,Black,N,Business,Y,N,N,Y,N,,N
+Dhruv,23,M,Amritsar,India,2,Computer Application,Amritsar,none,none,Weightlifting,Pop,none,Crossfit,Pizza,McLaren,Rocky4,Tom Cruize,Venice,Vencouver,none,java,2,7,2,8,6,3,black,no,no,yes,no,yes,no,yes,5,no
+Deepali,22,Female,Goa,India,1,btech,india,,,basketball,hiphop,Secret,nfs,tacos,porsche,theproposal,ZacEfron,Dubai,vancouver,2,Java,2,5,0,0,5,3,orange,y,y,y,n,n,n,y,150,n
+Vinit,24,M,Nagpur,India,1,Computer Technology,Nagpur,,,Cricket,Bollywood,,,Indian,,,,New York,Toronto,2,SQL,2,2,,4,8,3,Black,N,Y,Y,N,N,N,Y,100,N
+Rahul,23,M,Hisar,India,2,IT,Indore,,,swimming,love,,Dota2,Butter Chicken,ToyotaSupra,Interstellar,Leonardo dicaprio,Hisar,Montreal,0,,,2,0,,6,3,Black,No,No,Yes,No,Yes,No,No,,Yes
+Tony,22,M,Pala,India,1,IT,Pala,N,N,Soccer,Pop,Deep Work,GTA4,Biriyani,BMW,Cars,Mohanlal,Pala,Mississauga,0,Python,2,4,1,8,6,3,Blue,Y,Y,Y,Y,N,N,Y,50,Y
+MAHARSHI, 21, MALE,  UDAIPUR, INDIA, 1, IT, UDAIPUR, , ,CRICKET, ROMANTIC, RICH DAD POOR DAD, MINI MILITIA, TANDORI CHICKEN, TESLA MODEL S, INJUSTICE, TOM CRUISE, PORT BLAIR, VANCOUVER, 0, JAVA, 3 ,7, 1 ,4 ,7 ,3, BLACK, NO, YES, YES, NO, YES, NO, YES, 10, YES
+Achyuth,23,M,hyd,India,2,cs,hyd,,,,,,,biryani,ferrari,,,Hyd,toronto,2,3,1,10,1,2,6,3,blue,n,y,y,n,y,n,y,50,y
+Tejal,21,F,Vadodara,India,3 sisters,Mathematics,Vadodara,,,Vollyball,Rock,Perspectives,Candy Crush,Pizza,Audi,Ek tha Tiger,Salman Khan,New York,Toronto,0,C++,2,1,0,3,6,3,Red,N,Y,N,N,N,N,N,0,N
+Rushabh Raolji, 25, M, Anand, India, 0, IT, Anand, Computer Science, ,Tennis, Pop, The Alchemist, Watch Dogs, Indian, Massareti, , Jim Carrey, Paris, Toronto, 2, Python, 1, 4, 1, 5, 8, 4, Black, Y, Y, Y, Y, N, Y, Y, 2329, Y
+Olha,21,F,Kiev,Ukraine,0,IT,Kiev,,,ping-pong,Indi,Tree Comrades,Hearthstone,Pasta,Mini Cooper,The Intouchables,Benedict Cumbertbatch,Munich,Toronto,2,X++,4,4,1,6,6,3,dark blue,N,N,Y,Y,Y,N,Y,100,N
+Lucicarla,39,F,Olinda,Brazil,2,IT,Recife,,,Swim,Pop,Bible,just dance,BBQ,Volvo,notebook,,NY,Ottawa,17,PL-SQL,2,2,0,3,6,3,blue,N,Y,Y,N,N,N,Y,50,N
+Valéria,38,F,Brasilia,Brazil,3,Administration,Brasilia,,,Soccer,Paradise,Sophie's World,Little Big Planet,Barbecue,Porsche,Pursuit of Happinnes,Morgan Freeman,Amsterdam,Vancouver,11,unix shell script,1,1,,3,7,3,Red,Y,Y,Y,Y,Y,Y,Y,227,Y
+Jibin,22,M,Riyadh,Saudi Arabia,1,BCA,Bengaluru,,,Football,,Balarama,Football,Puttu,Tesla,Prestige,Hugh Jackman,Bengaluru,Niagara,1,Malayalam,2,7,2,2,6,5,White,Yes,Yes,Yes,No,No,No,No,,Yes
+Johns George,21,M,Kottayam,India,2,IT,Pala,0,0,Cricket,David Guetta, The secret ,GTA 4,Kappa and Beef, BMW, Fast and Furious, Paul Walker, New York, Toronto Downtown,0,C++,2,8,0,5,8,3,Blue,No,Data Analysis,Yes,No,No,No,Yes,10,No
+Shruti, 22, female, Visakhapatnam, India, 1 brother, computer science, Visakhapatnam, big data,  , badminton, pop, And the mountains echoed, chess, fried rice, tesla, , shahrukh khan, dubai, Toronto, 6 months, java, 2 hours, 2 hours, 1 hour, 6 hours, 7 hours, 3 languages, blue, yes, yes, yes, no, no, no, yes, 7, not yet
+Javier,27,M,Juarez City,Mexico,1,Computer Systems,Mexico,N,N,Soccer,Rock,Soccernomics,Fifa EA Sports,Enchiladas,Toyota,Moneyball,Seth Rogen,Sayulita,Banff,4,Java,2,1,0,0,8,3,Blue,N,Y,Y,N,N,N,Y,286,N
+Shweta,21,F,Nawanshahr,India,1,Physics,Amritsar,,,Cricket,Classical,The Fountainhead,Carromboard,Pav Bhaji, Mercedes,Fault in our stars, Akshay Kumar, Sydney, Etobicoke,,Python,1,10,3,7,8,6,Scarlet,y,teaching,n,n,n,n,n,0,y
+Shivani,21,F,Amritsar,India,1 brother,Physics,Amritsar,,,Cricket,Rock,Who will cry when you will die,chess, Rajma Rice,Mercedes,Doctor Strange, Benedict, Sydney,Etobicoke,,Python,1,9,2,4,8,4,Pink,yes,instructor,,,,,,,y
+Supriya Kapoor, 21, female, Patiala, India, 1, , ludhiana, , , badminton, classical, the alchemist, , golgappas, , three idiots, nana patekar, Dubai, Vancover, 0, c++, 2, 6, 0, 2, 7, 3, white, N, Y, Y, N, N, N, N, 0,N
+JASPREET,24,M,BHOGPUR,INDIA,2,BSC,JALANDHAR,MSC,,BADMINTON,CLASSICAL,ONE INDIAN GIRL,CLASH OF TITANS,PUNJABI FOOD,BUGATTI,THE ITALIAN JOB,,,MISSISSAUGA,,,,,5,12,5,3,NAVY BLUE,N,Y,N,N,N,N,N,,N
+Karan,23,M,Amritsar,India,1,Computer Science,Amritsar,Mathematics,,Badminton,Punjabi,Men of Mathematics,,Punjabi,BMW,Sardar Mohammad,,Amritsar,Toronto,0,C++,1,2,0,,7,3,Red,N,Y,Y,N,N,N,Y,20,N
+Ganga,24,F,Delhi,India,1,CSc,Delhi,,,,Sufi,,Candy Crush,Cheese Pasta,Audi,,Amitab Bacchan,Chennai,,2.8,C#,2,1,,2,7,3,White,N,N,Y,Y,N,N,Y,33,N
+Chirag,24,M,Anand,India,1,EnTC,Nagpur,,,Cricket,indian,Immoratals of Meluha,CS go,Indian,,,,Nagpur,Toronto,2,C,,,0,,7,3,Black,Yes,No,Yes,No,No,Yes,No,,No
+Rizwan,25,M,Bapatla,India,2,Electronics and communications,India,,,Cricket,Melody,hound of the baskervilles,EA Sports,Hyderabd Biryani,Swift,Chak de india,Shahrukh,Hyderabad,Toronto,3,SQL,3,2,2,8,6,4,Green,N,IT,Y,N,N,N,Y,,N
+Navdeep kaur,22,f,Nawanshaher,India,1,BTech ECE,mohali,,,volleyball,rock,,candycrush,chinese,,,,mississauga,mississauga,,java,2,2,1,,8,3,royal blue,n,y,n,y,y,n,n,n,n
+gurkirat,22,male,amritsar,india,1,IT,amritsar,bigdata,bigdata,badminton,punjabi,bigdata,badminton,italian,rangerover,fastandfurious,paulwalker,toronto,toronto,1,python,6,8,2,8,4,3,black,no,yes,yes,no,yes,no,yes,200,no
+Wasif,25,M,Kozhikode,India,2,IT,Trichy,,,Football,Country,Satanic Verses,AngryBirds,Pasta,Porsche,Godfather,Eddie Redmayne,Paris,Toronto,3,C#,2,5,2,4,7,3,Blue,Y,Y,Y,N,N,N,Y,70,Y
+Rushil,23,M,Amritsar,India,1,computer science and engineering,India,,,Cricket,Melody,hound of the baskervilles,need for speed,Butter chicken,Mercedes,Interstellar,leonardo dicaprio,Amritsar,Toronto,1,Java,2,2,2,8,7,3,Navy blue,N,IT,Y,Y,N,N,Y,7,N
+Rafael,33,Male,Sao Bernardo,Brazil,1,Administration,Sao Paulo,None,None,Snowboarding,Country Music,Bible,Monopoly,Sushi,Mercedez,Vanilla Sky,Robert Downie Jr,Ilha Bela,Toronto,17,3,4,1,1,0,7,3,White,Y,N,N,Y,Y,N,Y,1242,Y
+Siva,25,M,Ongole,India,1,Mechanical,Bapatla,bigdata,None,cricket,classical,1984,counterstrike,biryani,Ferrari,3idiots,amirkhan,greece,Toronto,3,csharp,2,2,1,8,8,3,blue,y,y,y,y,n,y,y,186,y
+Tejal,25,f,Pune,india,0,IT,pune,,,,badminton,rock,candycrush,Tandoori,BMW,Insideout,Prabhas,Hawaii,Mississauga,2,Java,1,8,1,2,6,7,Black,n,y,y,y,n,n,y,50,n
+Ram,25,m,suryapet,india,1,CSE,bhongir,CSE,,football,melody,arcade,Indian,mini,mohabbatein,Hrithik,Pune,vancouver,2,Java,5,6,0,0,6,3,Blue,y,y,y,y,n,n,y,,25,n
+Razikh,25,M,Hyderabad,India,1,Electrical and Electronics,India,,,Cricket,upbeat and happy songs,Hit Refresh – Satya Nadella,Starcraft,Tandoori Chicken,Range Rover Evoque,Secret Superstar ,Aamir Khan,Hyderabad,Toronto,3,python,0.5,5,2,3,8,4,White,Y,Y,Y,Y,Y,N,Y,9980,N
